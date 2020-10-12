@@ -1,12 +1,14 @@
 
-&nbsp;	Hey there! Welcome to my place, grab a chair, sit down and lets talk about technology! 
+# Hey there! Welcome to my place, grab a chair, sit down and lets talk about technology! 
 
-### ✨&nbsp; Passionate about improving myself all the time
-I'm a seasoned Oracle Specialist and I'm discovering a new world of possibilities with NodeJS, ReactJS, and React Native.
+# Passionate about improving myself all the time
+I'm a seasoned Oracle Specialist and I discovred a new world of possibilities with NodeJS, ReactJS with Next.JS, and React Native.
 
-### 🔭&nbsp; Goals for 2020 
+# Goals for 2020 
 - Improve my new JS superpowers.
 - Launch a product to help people stay emotionally connected.
+
+
 
 
 
